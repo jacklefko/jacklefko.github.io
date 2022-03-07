@@ -1,0 +1,53 @@
+#homepage{
+    background: 'hancos-vietnamese-sandwich-bubble-tea.jpeg'
+}
+#title{
+    text-align:center;
+    text-shadow: 2px 2px #BF68F3;
+}
+p{
+    text-indent: 30px;
+}
+#essay{
+  font-family: 'League Spartan', sans-serif;
+  border-width: thick;
+}
+#image1{
+    position: absolute;
+    top: 30%;
+    margin-left: 20%;
+    border-style: inset;
+    border-width: 10px;
+    border-color: orange;
+    width: 30%;
+}
+.row{
+    border-style: groove;
+    border-width: 10px;
+    border-color: orange;
+    margin-top: 150px;
+    background-color: #60b1b3;
+}
+.col-sm{
+    padding: 0;
+}
+.main-title{
+     position: absolute;
+     top: 60%;
+     width: 50%;
+     text-align: center;
+     background-color: #10971C;
+     margin-left: 25%;
+}
+#navbarstyle{
+    background-color: #0F24BA;
+}
+#map{
+    top: 30%;
+    border-style: inset;
+    border-width: 10px;
+    border-color: #BF68F3;
+}
+#map-style{
+    text-align: center;
+}
